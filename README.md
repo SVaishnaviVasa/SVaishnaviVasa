@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sri Vaishnavi Vasa</h1>
 <h3 align="center">A passionate and tech enthusiast from India trying to explore different fields through hands-on projects in technologies like 3D website development, full stack, AR/VR and GenAI</h3>
-<img aligh="center" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 - 🌱 I’m currently learning **Three.js and Backend Technologies Express.js, MongoDB**
 
