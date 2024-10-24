@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sri Vaishnavi Vasa</h1>
 <h3 align="center">A passionate and tech enthusiast from India trying to explore different fields through hands-on projects in technologies like 3D website development, full stack, AR/VR and GenAI</h3>
-<img aligh="right" alt="coding" width="400" src="https://media3.giphy.com/media/JqmupuTVZYaQX5s094/200w.gif?cid=6c09b952463p7df3yvvtxn4arwqxw2km8jf2j7hac18mz4c7&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img aligh="right" alt="coding" width="200" src="https://media3.giphy.com/media/JqmupuTVZYaQX5s094/200w.gif?cid=6c09b952463p7df3yvvtxn4arwqxw2km8jf2j7hac18mz4c7&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 - 🌱 I’m currently learning **Three.js and Backend Technologies Express.js, MongoDB**
 
